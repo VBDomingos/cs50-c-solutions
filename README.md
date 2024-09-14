@@ -8,3 +8,5 @@ You might notice a mix of naming conventions in the code:
 `I prefer camelCase, where each word is capitalized except for the first (e.g., getInt, checkValid).`
 
 As a result, some files follow CS50's snake_case naming style, while others follow my personal camelCase preference. Generally, files provided by CS50 with partial implementations retain their original naming convention, while files written from scratch use camelCase.
+
+The same can be said about comments. I mostly dislike comments where they aren't needed, but since files provided by CS50 have _a lot_ of comments, I just followed the convention provided.
