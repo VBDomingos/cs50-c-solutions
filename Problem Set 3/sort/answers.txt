@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Fast runtime for sorted database, but performance quickly drops off if using a sorted or reversed database.
+
+sort2 uses: Merge Sort
+
+How do you know?: It's the best sort of the options.
+
+sort3 uses: Selection Sort
+
+How do you know?: Fast for small datasets and slow for bigger ones.
